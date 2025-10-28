@@ -4,7 +4,7 @@ Krótka instrukcja uruchomienia i korzystania z aplikacji.
 
 Uruchomienie aplikacji
 -----------------------------------
-Po sklonowaniu repo uruchom plik exe: `TodoApp\Wpf\Wpf.exe`.
+Po sklonowaniu repo uruchom plik exe: `TodoApp\Wpf\publish\Wpf.exe`.
 
 Gdzie są dane
 -------------
